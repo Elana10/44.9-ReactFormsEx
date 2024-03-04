@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`handles remove clicks 1`] = `
+<DocumentFragment>
+  <li>
+    Walk dog
+  </li>
+  <button
+    id="1"
+  >
+    Remove
+  </button>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <li />
+  <button>
+    Remove
+  </button>
+</DocumentFragment>
+`;
